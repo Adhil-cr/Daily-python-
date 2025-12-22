@@ -37,3 +37,4 @@ for i in nums:
 # Final list with no duplicates 
 print(new_list)
         
+        
